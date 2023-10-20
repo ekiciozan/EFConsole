@@ -12,6 +12,5 @@ namespace EntityFrameworkConsole
         public string UrunAdi { get; set; }
         public double Fiyat { get; set; }
         public int StokAdet { get; set; }
-        public bool Satistami { get; set; }
     }
 }
