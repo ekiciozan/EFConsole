@@ -1,0 +1,12 @@
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\bin\Debug\EntityFrameworkConsole.exe.config
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\bin\Debug\EntityFrameworkConsole.exe
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\bin\Debug\EntityFrameworkConsole.pdb
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\bin\Debug\EntityFramework.dll
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\bin\Debug\EntityFramework.xml
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\obj\Debug\EntityFrameworkConsole.csproj.AssemblyReference.cache
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\obj\Debug\EntityFrameworkConsole.csproj.CoreCompileInputs.cache
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\obj\Debug\EntityFrameworkConsole.csproj.CopyComplete
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\obj\Debug\EntityFrameworkConsole.exe
+C:\Users\ozane\source\repos\EntityFrameworkConsole\EntityFrameworkConsole\obj\Debug\EntityFrameworkConsole.pdb
